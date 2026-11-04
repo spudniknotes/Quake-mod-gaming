@@ -3,16 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\SysCmds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\gamesys\\SysCmds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\weapon\\WeaponRocketLauncher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\weapon\\WeaponRocketLauncher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\SaveGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\gamesys\\SaveGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\2hu\\maps\\game\\walker.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\gamesys\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\physics\\Physics_RigidBody.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\physics\\Physics_RigidBody.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +26,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SysCmds.cpp",
-              "DocumentMoniker": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\SysCmds.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\SysCmds.cpp",
-              "ToolTip": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\SysCmds.cpp",
-              "RelativeToolTip": "game\\gamesys\\SysCmds.cpp",
-              "ViewState": "AgIAAKAAAAAAAAAAAADwv60AAAAtAAAAAAAAAA==",
+              "Title": "WeaponRocketLauncher.cpp",
+              "DocumentMoniker": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\weapon\\WeaponRocketLauncher.cpp",
+              "RelativeDocumentMoniker": "game\\weapon\\WeaponRocketLauncher.cpp",
+              "ToolTip": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\weapon\\WeaponRocketLauncher.cpp",
+              "RelativeToolTip": "game\\weapon\\WeaponRocketLauncher.cpp",
+              "ViewState": "AgIAANoBAAAAAAAAAAAjwPMBAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-02T02:25:11.95Z",
+              "WhenOpened": "2026-11-04T16:37:20.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SaveGame.cpp",
-              "DocumentMoniker": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\SaveGame.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\SaveGame.cpp",
-              "ToolTip": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\SaveGame.cpp",
-              "RelativeToolTip": "game\\gamesys\\SaveGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-02T02:25:08.755Z",
+              "Title": "walker.map",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\2hu\\maps\\game\\walker.map",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\2hu\\maps\\game\\walker.map",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\2hu\\maps\\game\\walker.map",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Steam\\steamapps\\common\\Quake 4\\2hu\\maps\\game\\walker.map",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-04T13:13:14.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class.cpp",
-              "DocumentMoniker": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\Class.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\Class.cpp",
-              "ToolTip": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\gamesys\\Class.cpp",
-              "RelativeToolTip": "game\\gamesys\\Class.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAjwA0AAAASAAAAAAAAAA==",
+              "Title": "Physics_RigidBody.cpp",
+              "DocumentMoniker": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\physics\\Physics_RigidBody.cpp",
+              "RelativeDocumentMoniker": "game\\physics\\Physics_RigidBody.cpp",
+              "ToolTip": "C:\\Users\\Lemon\\Documents\\GitHub\\Quake-mod-gaming\\game\\physics\\Physics_RigidBody.cpp",
+              "RelativeToolTip": "game\\physics\\Physics_RigidBody.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-02T02:25:03.991Z",
+              "WhenOpened": "2026-11-02T03:07:00.338Z",
               "EditorCaption": ""
             }
           ]
